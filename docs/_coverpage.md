@@ -1,4 +1,4 @@
-![logo](https://avatars2.githubusercontent.com/u/45163886?s=400&u=b35b552466f83f46735c79dede6036577556269d&v=4)
+![logo](https://avatars2.githubusercontent.com/u/45163886?s=400&u=9424113b2776c0c5d826e360cb96c437fd0fea8c&v=4)
 
 
 > Front-End template build tool base on nodejs.
