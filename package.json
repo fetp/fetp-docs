@@ -1,0 +1,19 @@
+{
+  "name": "fetp-docs",
+  "version": "1.0.0",
+  "description": "fetp Api documents by https://docsify.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetp/fetp-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fetp/fetp-docs/issues"
+  },
+  "homepage": "https://github.com/fetp/fetp-docs#readme"
+}
