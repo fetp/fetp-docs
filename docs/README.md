@@ -1,3 +1,3 @@
 # Getting Started
 
-> Front-End template build tool base on nodejs
+> Page is published at https://fetp.github.io/fetp-docs/
