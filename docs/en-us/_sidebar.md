@@ -1,5 +1,6 @@
 * Start
   * [quickstart](en-us/quickstart.md)
+  * [usage](en-us/usage.md)
 
 * Template
   * [Basic](en-us/quickstart.md)

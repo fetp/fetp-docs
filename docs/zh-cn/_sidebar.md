@@ -1,5 +1,6 @@
 * 起步
   * [快速开始](zh-cn/quickstart.md)
+  * [使用方式](zh-cn/usage.md)
 
 * 模板
   * [Basic](zh-cn/quickstart.md)

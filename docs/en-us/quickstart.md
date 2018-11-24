@@ -1,33 +1,18 @@
 ## install
 
-```
+```bash
 $ npm i -g fetp
 ```
 
 ## Running
 
-```
+```bash
 $ fetp
 ```
 
 
 ## Uninstall
 
-```
+```bash
 $ npm uni -g fetp
-```
-
-## Usage
-
-### init seed project
-
-```
-fetp init <template type> [project URL]
-```
-
-
-### Help
-
-```
-fetp -h
 ```
