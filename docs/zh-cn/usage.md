@@ -9,6 +9,7 @@
 $ fetp
 ```
 
+![](https://makefriends.bs2dl.yy.com/bm1543127896249.gif)
 
 ## init
 
@@ -20,6 +21,9 @@ $ fetp init <模板名称> [项目目录]
 $ fetp i <模板名称> [项目目录]
 ```
 
+![](https://makefriends.bs2dl.yy.com/bm1543128050175.gif)
+
+
 ## dev
 
 > 开发模式，启动一个Web 服务器
@@ -30,7 +34,10 @@ $ fetp dev
 $ fetp d
 ```
 
-## watch
+
+![](https://makefriends.bs2dl.yy.com/bm1543128085386.gif)
+
+## watch (未实现)
 
 > watch 模式
 
@@ -40,7 +47,7 @@ $ fetp watch
 $ fetp w
 ```
 
-## output
+## output (未实现)
 
 > 生产模式，构建并发布到生产环境
 

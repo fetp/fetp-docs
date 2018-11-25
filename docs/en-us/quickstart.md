@@ -1,3 +1,5 @@
+
+
 ## install
 
 ```bash
@@ -9,7 +11,6 @@ $ npm i -g fetp
 ```bash
 $ fetp
 ```
-
 
 ## Uninstall
 

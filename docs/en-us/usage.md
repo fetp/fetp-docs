@@ -9,6 +9,8 @@
 $ fetp
 ```
 
+![](https://makefriends.bs2dl.yy.com/bm1543127896249.gif)
+
 
 ## init
 
@@ -20,6 +22,8 @@ $ fetp init <templateName> [directory]
 $ fetp i <templateName> [directory]
 ```
 
+![](https://makefriends.bs2dl.yy.com/bm1543128050175.gif)
+
 ## dev
 
 > development model, Running a Development Web Server
@@ -30,7 +34,10 @@ $ fetp dev
 $ fetp d
 ```
 
-## watch
+![](https://makefriends.bs2dl.yy.com/bm1543128085386.gif)
+
+
+## watch (unimplemented)
 
 > watch model
 
@@ -40,7 +47,7 @@ $ fetp watch
 $ fetp w
 ```
 
-## output
+## output (unimplemented)
 
 > production model, building & publish project production development.
 
