@@ -3,9 +3,9 @@
 
 > Front-End template build tool base on nodejs.
 
-* Simple and Smart 
-* friendly
-* so cool
+* ✔︎ Simple and Smart 
+* ✔︎ Plugin system
+* ✔︎ Framework customization
 
 [GitHub](https://github.com/yang657850144/fetp)
 [Get Started](/en-us/quickstart.md)
