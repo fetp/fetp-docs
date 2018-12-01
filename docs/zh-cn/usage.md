@@ -21,7 +21,7 @@ $ fetp init <模板名称> [项目目录]
 $ fetp i <模板名称> [项目目录]
 ```
 
-![](https://makefriends.bs2dl.yy.com/bm1543128050175.gif)
+![](https://makefriends.bs2dl.yy.com/bm1543643949529.gif)
 
 
 ## dev
@@ -35,7 +35,7 @@ $ fetp d
 ```
 
 
-![](https://makefriends.bs2dl.yy.com/bm1543128085386.gif)
+![](https://makefriends.bs2dl.yy.com/bm1543644512171.gif)
 
 ## watch (未实现)
 

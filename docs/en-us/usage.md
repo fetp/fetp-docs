@@ -1,5 +1,5 @@
 
-# Usage
+# Usage (basic)
 
 ## preview
 
@@ -22,7 +22,7 @@ $ fetp init <templateName> [directory]
 $ fetp i <templateName> [directory]
 ```
 
-![](https://makefriends.bs2dl.yy.com/bm1543128050175.gif)
+![](https://makefriends.bs2dl.yy.com/bm1543643949529.gif)
 
 ## dev
 
@@ -34,7 +34,7 @@ $ fetp dev
 $ fetp d
 ```
 
-![](https://makefriends.bs2dl.yy.com/bm1543128085386.gif)
+![](https://makefriends.bs2dl.yy.com/bm1543644512171.gif)
 
 
 ## watch (unimplemented)

@@ -4,6 +4,7 @@
   "description": "fetp Api documents by https://docsify.net/",
   "main": "index.js",
   "scripts": {
+    "dev": "docsify serve docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

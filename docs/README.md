@@ -1,9 +1,3 @@
-# Getting Started
+# FETP
 
-> Page is published at https://fetp.github.io/fetp-docs/
-
-## start
-
-```
-$ docsify serve docs
-```
+> Front-End template build tool base on nodejs.
