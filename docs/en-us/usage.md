@@ -34,6 +34,10 @@ $ fetp dev
 $ fetp d
 ```
 
+- `FETP` can help us create a preview directory in the `dev` directory from the `src` directory，and start a server offer us preview。 
+-  Modify source code will auto build incrementally,and hot-refresh browser (reference：[webpack DevServer](https://webpack.js.org/configuration/dev-server/))
+- `FETP` 不会修改源码。
+
 ![](https://makefriends.bs2dl.yy.com/bm1543644512171.gif)
 
 
@@ -56,6 +60,8 @@ $ fetp output
 # OR Shorthand 
 $ fetp o
 ```
+
+`FETP` can help us package the source code in the `src` directory to be the `output` directory
 
 ## help
 
