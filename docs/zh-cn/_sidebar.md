@@ -3,7 +3,7 @@
   * [使用方式](zh-cn/usage.md)
 
 * 模板
-  * [Basic](zh-cn/quickstart.md)
+  * [Basic](zh-cn/template/basic.md)
   * [Vue](zh-cn/quickstart.md)
   * [React](zh-cn/quickstart.md)
 
