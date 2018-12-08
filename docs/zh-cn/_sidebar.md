@@ -4,13 +4,12 @@
 
 * 模板
   * [Basic](zh-cn/template/basic.md)
-  * [Vue](zh-cn/quickstart.md)
-  * [React](zh-cn/quickstart.md)
+  * [Vue](zh-cn/template/vue.md)
+  * [React](zh-cn/template/react.md)
 
 * 配置
-  * [通用配置](zh-cn/quickstart.md)
-  * [高级配置](zh-cn/quickstart.md)
-    * [使用ESLint](zh-cn/quickstart.md)
+  * [通用配置](zh-cn/empty.md)
+  * [ESLint](zh-cn/configuration/eslint.md)
 
 
 

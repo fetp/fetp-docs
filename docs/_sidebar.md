@@ -4,13 +4,12 @@
 
 * Template
   * [Basic](en-us/template/basic.md)
-  * [Vue](en-us/quickstart.md)
-  * [React](en-us/quickstart.md)
+  * [Vue](en-us/template/vue.md)
+  * [React](en-us/template/react.md)
 
 * Configuration
-  * [Common](en-us/quickstart.md)
-  * [Advance](en-us/quickstart.md)
-    * [ESLint](en-us/quickstart.md)
+  * [Common](en-us/empty.md)
+  * [ESLint](en-us/configuration/eslint.md)
 
 
 
